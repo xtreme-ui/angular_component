@@ -1,0 +1,8 @@
+{
+  "es2015": "dist/fesm2015/bit-vfragier16.angular-tutorial.ui-button.js",
+  "esm2015": "dist/esm2015/bit-vfragier16.angular-tutorial.ui-button.js",
+  "fesm2015": "dist/fesm2015/bit-vfragier16.angular-tutorial.ui-button.js",
+  "module": "dist/fesm2015/bit-vfragier16.angular-tutorial.ui-button.js",
+  "typings": "dist/bit-vfragier16.angular-tutorial.ui-button.d.ts",
+  "metadata": "dist/bit-vfragier16.angular-tutorial.ui-button.metadata.json"
+}

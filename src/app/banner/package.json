@@ -1,0 +1,8 @@
+{
+  "es2015": "dist/fesm2015/bit-banner.js",
+  "esm2015": "dist/esm2015/bit-banner.js",
+  "fesm2015": "dist/fesm2015/bit-banner.js",
+  "module": "dist/fesm2015/bit-banner.js",
+  "typings": "dist/bit-banner.d.ts",
+  "metadata": "dist/bit-banner.metadata.json"
+}
